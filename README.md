@@ -1,4 +1,4 @@
-# feed_frenzy
+# Overview
 Implementation of feed frenzy system in golang
 
 
